@@ -5,5 +5,5 @@
 <p align="center">
 This project is a sample for university web-page.<br>
 Click on the link to vist:<br>
-< href = "anikalp1.github.io/University-Page/">
+<a href="anikalp1.github.io/University-Page/" target="blank">CLICK HERE</a>
 </p>
